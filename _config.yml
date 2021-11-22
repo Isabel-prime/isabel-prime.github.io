@@ -178,8 +178,8 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
-    output: false
+  research:
+    output: true
     permalink: /:collection/:path/
   portfolio:
     output: false
@@ -221,7 +221,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: research
     values:
       layout: single
       author_profile: true
