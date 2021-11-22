@@ -1,7 +1,7 @@
 ---
 title: "Combinatorial Game Theory in Lean"
 collection: publications
-permalink: /publications/combinatorial-game-theory-in-lean
+permalink: /research/combinatorial-game-theory-in-lean
 excerpt: "This paper was written for a project supervised by Scott Morrison, in which we attempted to formalise the basic definitions of combinatorial games using the interactive theorem proving language Lean. While this theory is mostly elementary, it interacted in surprising ways with Lean's inductive type system. 
 
 Combinatorial game theory was later incorporated into [mathlib](https://github.com/leanprover-community/mathlib), in part based on the work done in this project."
