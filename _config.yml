@@ -84,11 +84,10 @@ author:
   avatar           : "Backup-Profile-Photo.jpg"
   bio              : "Undergraduate mathematics student"
   location         : "ANU, Canberra, Australia"
-  email            : "mailto:isabel.longbottom@anu.edu.au"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "mailto:isabel.longbottom@anu.edu.au"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
