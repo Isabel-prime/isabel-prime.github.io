@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+ <!-- figure out how to add a photo here -->
+
 I am an undergraduate mathematics student in the [Mathematical Sciences Institute](https://maths.anu.edu.au) of the Australian National University. I recently finished writing my [Honours thesis](/files/thesis.pdf) on the derived category of representations of an acyclic quiver, supervised by [Asilata Bapat](https://asilata.github.io/). 
 
 I am interested in algebraic geometry, representation theory, the derived category, and other topics in algebra. At the moment I'm thinking about the generalisation of derived reflection functors to vertices other than sources and sinks, and iterated weight filtrations. 
