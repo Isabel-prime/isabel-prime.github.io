@@ -9,5 +9,4 @@ date: "2019-06-14"
 venue:
 paperurl: 'https://isabel-prime.github.io/files/combinatorial-game-theory-in-lean.pdf'
 citation: 
-display_citation : false
 ---

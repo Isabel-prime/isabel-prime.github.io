@@ -7,6 +7,5 @@ date: "2020-11-15"
 venue:
 paperurl: 'https://isabel-prime.github.io/files/banach-space-representations.pdf'
 citation: 
-display_citation : false
 ---
 

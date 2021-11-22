@@ -7,6 +7,5 @@ date: "2021-06-04"
 venue:
 paperurl: 'https://isabel-prime.github.io/files/rational-tangle-replacement.pdf'
 citation: 
-display_citation : false
 ---
 
