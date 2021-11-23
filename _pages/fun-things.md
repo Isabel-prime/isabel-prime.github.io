@@ -9,7 +9,8 @@ author_profile: true
 
 Here is an icosahedron I assembled from [Sonobe](https://en.wikipedia.org/wiki/Sonobe) units.
 
-<center>![A Sonobe icosahedron in three colours](/images/Sonobe-Icosahedron.jpg){:width="260px"}<\center>
+<!-- ![A Sonobe icosahedron in three colours](/images/Sonobe-Icosahedron.jpg){:width="260px"} -->
+<div style="text-align: center"><img src="/images/Sonobe-Icosahedron.jpg" width="260px" alt="A Sonobe icosahedron in three colours"/></div>
 
 This model of five intersecting tetrahedra took quite a lot of fiddling to assemble correctly.
 
