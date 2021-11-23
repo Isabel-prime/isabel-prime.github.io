@@ -8,6 +8,6 @@ date: 2021-06-20
 location: "online"
 ---
 
-A short talk introducing some quiver theory. I classify simple representations of acyclic quivers, and discuss Gabriel's theorem. 
+"A short talk introducing some quiver theory. I classify simple representations of acyclic quivers, and discuss Gabriel's theorem. 
 
-Available to watch [here](https://isabel-prime.github.io/files/slides-intro-to-quiver-reps.pdf), and the slides are [here](https://isabel-prime.github.io/files/slides-intro-to-quiver-reps.pdf). 
+Available to watch [here](https://isabel-prime.github.io/files/slides-intro-to-quiver-reps.pdf), and the slides are [here](https://isabel-prime.github.io/files/slides-intro-to-quiver-reps.pdf)."
