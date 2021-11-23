@@ -3,7 +3,7 @@ title: "Tropical Algebraic Geometry and the Structure Theorem"
 collection: research
 permalink: /research/tropical-algebraic-geometry
 excerpt: 
-date: "2020-06-20"
+date: 2020-06-20
 venue:
 paperurl: 'https://isabel-prime.github.io/files/some-tropical-algebraic-geometry.pdf'
 citation: 

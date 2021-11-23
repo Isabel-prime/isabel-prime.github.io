@@ -3,7 +3,7 @@ title: "Rational Tangle Replacement and its Consequences"
 collection: research
 permalink: /research/rational-tangle-replacement
 excerpt: 
-date: "2021-06-04"
+date: 2021-06-04
 venue:
 paperurl: 'https://isabel-prime.github.io/files/rational-tangle-replacement.pdf'
 citation: 

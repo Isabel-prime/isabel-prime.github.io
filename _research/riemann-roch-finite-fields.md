@@ -3,7 +3,7 @@ title: "Riemann-Roch for Nonsingular Complete Curves"
 collection: research
 permalink: /research/riemann-roch-finite-fields
 excerpt: 
-date: "2021-06-11"
+date: 2021-06-11
 venue:
 paperurl: 'https://isabel-prime.github.io/files/Riemann-Roch-on-finite-fields.pdf'
 citation: 

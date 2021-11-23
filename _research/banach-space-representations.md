@@ -3,7 +3,7 @@ title: "Group Actions and Ergodic Theory"
 collection: research
 permalink: /research/banach-space-representations
 excerpt:
-date: "2020-11-15"
+date: 2020-11-15
 venue:
 paperurl: 'https://isabel-prime.github.io/files/banach-space-representations.pdf'
 citation: 
