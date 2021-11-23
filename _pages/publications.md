@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: "Research and mathematical writing"
 permalink: /research/
 author_profile: true
 ---

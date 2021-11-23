@@ -15,5 +15,5 @@ This model of five intersecting tetrahedra was tricky to assemble correctly, but
 
 ![An image of an origami model made from five interlocking tetrahedra](/images/Sonobe-Icosahedron.jpg "A placeholder until the real image is added"){:width="260px"}
 
-I learned about it [here](https://www.polypompholyx.com/2017/01/modularorigami/), along with many other designs, and [here](http://mars.wne.edu/~thull/fit.html) are instructions.
+I learned about it [here](https://www.polypompholyx.com/2017/01/modularorigami/), along with many other designs, and [here](http://mars.wne.edu/~thull/fit.html) are the instructions I followed.
 
