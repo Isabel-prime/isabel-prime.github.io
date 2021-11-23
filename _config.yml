@@ -175,13 +175,14 @@ kramdown:
 
 # Collections
 collections:
-  Research:
+  research:
     output: true
     permalink: /:collection/:path/
-  Talks:
+    name: "Research"
+  talks:
     output: true
     permalink: /:collection/:path/
-
+    name: "Talks"
 
 # Defaults
 defaults:
