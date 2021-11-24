@@ -17,5 +17,5 @@ This model of five intersecting tetrahedra was tricky to assemble correctly, but
 
 <!-- ![An image of an origami model made from five interlocking tetrahedra](/images/Five-Tetrahedra.jpg "An origami model of five interlocking tetrahedra. The 20 vertices form a dodecahedron."){:width="300px"} -->
 
-I learned about it [here](https://www.polypompholyx.com/2017/01/modularorigami/), along with many other designs, and [here](http://mars.wne.edu/~thull/fit.html) are the instructions I followed.
+I learned about it from [this blog](https://www.polypompholyx.com/2017/01/modularorigami/), along with many other designs, and followed [Thomas Hull's](http://mars.wne.edu/~thull/fit.html) instructions to build it.
 
