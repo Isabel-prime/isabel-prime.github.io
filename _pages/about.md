@@ -7,11 +7,12 @@ redirect_from:
   - /about.html
 ---
 
+<div><img src="/images/Black-Mountain-Sunset-Fullsize-Compressed.jpg" style="width: 800px; height: 600px;" alt="A photo of Lake Burley-Griffin at sunset, with Telstra tower visible in silhouette" title="A photo of Lake Burley-Griffin at sunset, with Telstra tower (far right) and the National Library (far left) visible in silhouette"></div>
+
+&nbsp;  
 I am an undergraduate mathematics student in the [Mathematical Sciences Institute](https://maths.anu.edu.au) of the Australian National University. I recently finished writing my [Honours thesis](/research/thesis) on the derived category of representations of an acyclic quiver, supervised by [Asilata Bapat](https://asilata.github.io/). 
 
-I am interested in algebraic geometry, representation theory, the derived category, and other topics in algebra. At the moment I'm thinking about the generalisation of derived reflection functors to vertices other than sources and sinks, and iterated weight filtrations.   
-
-<div><img src="/images/Black-Mountain-Sunset-Fullsize-Compressed.jpg" style="width: 800px; height: 600px;" alt="A photo of Lake Burley-Griffin at sunset, with Telstra tower visible in silhouette" title="A photo of Lake Burley-Griffin at sunset, with Telstra tower (far right) and the National Library (far left) visible in silhouette"></div>
+I am interested in algebraic geometry, representation theory, the derived category, and other topics in algebra. At the moment I'm thinking about the generalisation of derived reflection functors to vertices other than sources and sinks, and iterated weight filtrations. 
 
 <!-- ![A photo of Lake Burley-Griffin at sunset, with Telstra tower visible in silhouette](/images/Black-Mountain-Sunset.jpg "A photo of Lake Burley-Griffin at sunset, with Telstra tower (far right) and the National Library (far left) visible in silhouette"){:height="400px"} -->
 
