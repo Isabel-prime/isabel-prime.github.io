@@ -9,11 +9,11 @@ author_profile: true
 
 Here is an icosahedron I assembled from [Sonobe](https://en.wikipedia.org/wiki/Sonobe) units.
 
-<div style="text-align: center"><img src="/images/Sonobe-Icosahedron.jpg" style="width: 300px; height: 300px;" alt="A Sonobe icosahedron in three colours" title="A Sonobe icosahedron in three colours. This was assembled from 30 Sonobe units."/></div>
+<div style="text-align: center"><img src="/images/Sonobe-Icosahedron-Fullsize-Compressed.jpg" style="width: 300px; height: 300px;" alt="A Sonobe icosahedron in three colours" title="A Sonobe icosahedron in three colours. This was assembled from 30 Sonobe units."/></div>
 
 This model of five intersecting tetrahedra was tricky to assemble correctly, but I am quite pleased with the result.
 
-<div><img src="/images/Five-Tetrahedra.jpg" style="width: 300px; height: 300px;" alt="An image of an origami model made from five interlocking tetrahedra" title="An origami model of five interlocking tetrahedra. The 20 vertices form a dodecahedron."/></div>
+<div><img src="/images/Five-Tetrahedra-Fullsize-Compressed.jpg" style="width: 300px; height: 300px;" alt="An image of an origami model made from five interlocking tetrahedra" title="An origami model of five interlocking tetrahedra. The 20 vertices form a dodecahedron."/></div>
 
 <!-- ![An image of an origami model made from five interlocking tetrahedra](/images/Five-Tetrahedra.jpg "An origami model of five interlocking tetrahedra. The 20 vertices form a dodecahedron."){:width="300px"} -->
 
