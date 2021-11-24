@@ -1,14 +1,14 @@
 ---
-permalink: /
-title: ""
-excerpt: ""
+layout: archive
+permalink: /about/
+title: 
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<div><img src="/images/Black-Mountain-Sunset.jpg" style="width: 676.67px; height: 600px; vspace=10px;" alt="A photo of Lake Burley-Griffin at sunset, with Telstra tower visible in silhouette" title="A photo of Lake Burley-Griffin at sunset, with Telstra tower (far right) and the National Library (far left) visible in silhouette"></div>
+<div><img src="/images/Black-Mountain-Sunset.jpg" alt="A photo of Lake Burley-Griffin at sunset, with Telstra tower visible in silhouette" title="A photo of Lake Burley-Griffin at sunset, with Telstra tower (far right) and the National Library (far left) visible in silhouette"></div>
 
 <!-- ![A photo of Lake Burley-Griffin at sunset, with Telstra tower visible in silhouette](/images/Black-Mountain-Sunset.jpg "A photo of Lake Burley-Griffin at sunset, with Telstra tower (far right) and the National Library (far left) visible in silhouette"){:height="400px"} -->
 
