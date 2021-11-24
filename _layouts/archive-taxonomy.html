@@ -5,7 +5,12 @@ author_profile: false
 
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 <meta http-equiv="Content-Security-Policy"
-      content="default-src 'self';">
+      content=" default-src 'none'; 
+                form-action 'none'; 
+                frame-ancestors 'none'; 
+                style-src 'self'; 
+                script-src 'self' cdnjs.com; 
+                img-src 'self';">
 
 <div id="main" role="main">
   {% include sidebar.html %}
