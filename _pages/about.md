@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div><img src="/images/Black-Mountain-Sunset.jpg" style="width: 650px; height: 487px;" alt="A photo of Lake Burley-Griffin at sunset, with Telstra tower visible in silhouette" title="A photo of Lake Burley-Griffin at sunset, with Telstra tower (far right) and the National Library (far left) visible in silhouette"></div>
+<div><img src="/images/Black-Mountain-Sunset.jpg" style="width: 676.67px; height: 600px; vspace=10px;" alt="A photo of Lake Burley-Griffin at sunset, with Telstra tower visible in silhouette" title="A photo of Lake Burley-Griffin at sunset, with Telstra tower (far right) and the National Library (far left) visible in silhouette"></div>
 
 <!-- ![A photo of Lake Burley-Griffin at sunset, with Telstra tower visible in silhouette](/images/Black-Mountain-Sunset.jpg "A photo of Lake Burley-Griffin at sunset, with Telstra tower (far right) and the National Library (far left) visible in silhouette"){:height="400px"} -->
 
