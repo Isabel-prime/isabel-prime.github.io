@@ -1,5 +1,4 @@
 ---
-layout: default
 permalink: /
 title: 
 author_profile: true
@@ -7,6 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+{% include base_path %}
 
 <div><img src="/images/Black-Mountain-Sunset.jpg" style="width: 800px; height: 600px;" alt="A photo of Lake Burley-Griffin at sunset, with Telstra tower visible in silhouette" title="A photo of Lake Burley-Griffin at sunset, with Telstra tower (far right) and the National Library (far left) visible in silhouette"></div>
 
