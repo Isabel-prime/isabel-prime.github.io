@@ -12,11 +12,9 @@
 <meta name="theme-color" content="#ffffff">
 
 <!-- and my CSP: -->
-Content-Security-Policy-Report-Only:
-      default-src 'none';
-      form-action 'none'; 
-      frame-ancestors 'none';
-      report-uri https://isabelprime.report-uri.com/r/d/csp/wizard;
+<meta http-equiv="Content-Security-Policy"
+      content="default-src 'self';
+               img-src 'self';">
 
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
