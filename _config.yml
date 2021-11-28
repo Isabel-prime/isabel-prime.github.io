@@ -5,8 +5,6 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-Content-Security-Policy  : default-src 'none'; form-action 'none'; frame-ancestors 'none'; report-uri https://isabelprime.report-uri.com/r/d/csp/wizard;
-
 # Site Settings
 locale                   : "en-AU"
 title                    : "Isabel Longbottom"
