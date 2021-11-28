@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div><img src="/images/Black-Mountain-Sunset-Fullsize-Compressed.jpg" style="max-width: 800px; width: 100%; height: 600px;" alt="A photo of Lake Burley-Griffin at sunset, with Telstra tower visible in silhouette" title="A photo of Lake Burley-Griffin at sunset, with Telstra tower (far right) and the National Library (far left) visible in silhouette"></div>
+<div><img src="/images/Black-Mountain-Sunset-Fullsize-Compressed.jpg" style="max-width: 800px; width: 100%; height: auto;" alt="A photo of Lake Burley-Griffin at sunset, with Telstra tower visible in silhouette" title="A photo of Lake Burley-Griffin at sunset, with Telstra tower (far right) and the National Library (far left) visible in silhouette"></div>
 
 &nbsp;  
 I am an undergraduate mathematics student in the [Mathematical Sciences Institute](https://maths.anu.edu.au) of the Australian National University. I recently finished writing my [Honours thesis](/research/thesis) on the derived category of representations of an acyclic quiver, supervised by [Asilata Bapat](https://asilata.github.io/). 
