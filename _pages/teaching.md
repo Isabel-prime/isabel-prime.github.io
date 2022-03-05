@@ -7,6 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
+#### Private tutoring
+
+In 2022, I am available for private WACE tutoring in mathematics (Methods and Specialist), physics, and chemistry. I am based in Perth, Western Australia with sessions held either online or in-person. I am also available to tutor motivated year 7-10 students in maths and science. Inquiries to [isabellongbottom@gmail.com](mailto:isabellongbottom@gmail.com); please include your year level, subject, desired location and availability. 
+
+#### Teaching experience
+
 ### At the ANU as a demonstrator:
 
 * (S2 2021) [MATH2322](https://programsandcourses.anu.edu.au/2022/course/MATH2322), Advanced Algebra 1: Groups, Rings and Linear Algebra
