@@ -10,11 +10,9 @@ redirect_from:
 <div><img src="/images/Black-Mountain-Sunset-Fullsize-Compressed.jpg" style="max-width: 800px; width: 100%; height: auto;" alt="A photo of Lake Burley-Griffin at sunset, with Telstra tower visible in silhouette" title="A photo of Lake Burley-Griffin at sunset, with Telstra tower (far right) and the National Library (far left) visible in silhouette"></div>
 
 &nbsp;  
-I recently graduated from the [Mathematical Sciences Institute](https://maths.anu.edu.au) of the Australian National University, with a Bachelor of Philosophy (Science) - Honours. I wrote my [Honours thesis](/research/thesis) on the derived category of representations of an acyclic quiver, supervised by [Asilata Bapat](https://asilata.github.io/). 
+I am a first-year graduate student in mathematics at Harvard. My research interests are in algebraic geometry, representation theory, the derived category, and other topics in algebra. 
 
-I am interested in algebraic geometry, representation theory, the derived category, and other topics in algebra. At the moment I'm thinking about the generalisation of derived reflection functors to vertices other than sources and sinks, and iterated weight filtrations. 
-
-In 2022, I'm available for private tutoring (both online and in-person, based in Perth, Western Australia). For further details see my [teaching page](/teaching/).
+I obtained my undergraduate degree from the Australian National University, and wrote my [Honours thesis](/research/thesis) on the derived category of representations of an acyclic quiver, supervised by [Asilata Bapat](https://asilata.github.io/). 
 
 <!-- ![A photo of Lake Burley-Griffin at sunset, with Telstra tower visible in silhouette](/images/Black-Mountain-Sunset.jpg "A photo of Lake Burley-Griffin at sunset, with Telstra tower (far right) and the National Library (far left) visible in silhouette"){:height="400px"} -->
 
