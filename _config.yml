@@ -82,8 +82,9 @@ analytics:
 author:
   name             : "Isabel Longbottom"
   avatar           : "Backup-Profile-Photo-Fullsize-Compressed.jpg"
-  bio              : "Harvard mathematics graduate student"
+  bio              : "Mathematics graduate student at Harvard"
   location         : "Cambridge, Massachusetts"
+  follow_true      : false
   employer         :
   pubmed           : 
   googlescholar    : 
