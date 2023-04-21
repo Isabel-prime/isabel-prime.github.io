@@ -8,4 +8,4 @@ date: 2022-10-21
 share: false
 ---
 
-A 50 minute talk given for the MIT Kan seminar in Fall 2022. I read and presented Milnor's "On the Cobordism Ring $\Omega^*$ and a Complex Analogue", giving a modern treatment of the material in terms of spectra.
+A 50-minute talk given for the MIT Kan seminar in Fall 2022. I read and presented Milnor's _On the Cobordism Ring $\Omega$<sup>*</sup> and a Complex Analogue_, giving a modern treatment of the material in terms of spectra.
