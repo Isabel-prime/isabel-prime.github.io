@@ -17,6 +17,7 @@
                img-src 'self';
                script-src 'self' cdnjs.cloudflare.com www.google-analytics.com 'unsafe-eval' 'unsafe-inline';
                style-src 'self' 'unsafe-hashes'
+               'sha256-Z95yixzKt4wmliSDLQqUQ7jRoj2JFVlDivsPvT0+TR4=',
                'sha256-VLHVJSjwpKUPrYynAkYvB24zY/zZIADyMa8vPycMNgE=' 
                'sha256-anQSeQoEnQnBulZOQkDOFf+e6xBIGmqh7M8YFT992co=' 
                'sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU='
@@ -32,6 +33,8 @@
                'sha256-m7QXjx5P8LC/+VKnzxGQm9pFQ4ozYpEzbUeAyN5ySb4=';
                connect-src api.cdnjs.com;"> 
                <!-- last two hashes are for inline image formatting on fun things page; third-last is image on about page-->
+
+               <!-- the first hash 'sha256-Z95yixzKt4wmliSDLQqUQ7jRoj2JFVlDivsPvT0+TR4=' is for the inline mathjax on Milnor cobordism talk page -->
 
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
