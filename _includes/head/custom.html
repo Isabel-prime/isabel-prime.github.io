@@ -16,8 +16,12 @@
       content="default-src 'self';
                img-src 'self';
                script-src 'self' cdnjs.cloudflare.com www.google-analytics.com 'unsafe-eval' 'unsafe-inline';
-               style-src 'self' 'unsafe-hashes'
-               'sha256-Z95yixzKt4wmliSDLQqUQ7jRoj2JFVlDivsPvT0+TR4=',
+               style-src 'self' 'unsafe-inline';
+               connect-src api.cdnjs.com;"> 
+               
+               <!--
+                this is the rest of the old style-src part of the CSP 
+               'unsafe-hashes'
                'sha256-VLHVJSjwpKUPrYynAkYvB24zY/zZIADyMa8vPycMNgE=' 
                'sha256-anQSeQoEnQnBulZOQkDOFf+e6xBIGmqh7M8YFT992co=' 
                'sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU='
@@ -30,11 +34,9 @@
                'sha256-usF7NJCbuKpzl9w5i0UWagEpGasP7BLqKHGZHHzK3+Q='
                'sha256-+QSHKKOpeunRI5tHAq1ifGb47kviZVnRCA9z+5yG+cI='
                'sha256-Y9v1MZrln1N8aPBY5lmpxYKwFkcp/nyBMMEnn7WFjuw=' 
-               'sha256-m7QXjx5P8LC/+VKnzxGQm9pFQ4ozYpEzbUeAyN5ySb4=';
-               connect-src api.cdnjs.com;"> 
+               'sha256-m7QXjx5P8LC/+VKnzxGQm9pFQ4ozYpEzbUeAyN5ySb4='; -->
+               
                <!-- last two hashes are for inline image formatting on fun things page; third-last is image on about page-->
-
-               <!-- the first hash 'sha256-Z95yixzKt4wmliSDLQqUQ7jRoj2JFVlDivsPvT0+TR4=' is for the inline mathjax on Milnor cobordism talk page -->
 
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
