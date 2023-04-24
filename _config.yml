@@ -93,7 +93,7 @@ author:
   uri              :
   bitbucket        :
   codepen          :
-  dribbble         :
+  dribble         :
   flickr           :
   facebook         :
   foursquare       :
@@ -178,12 +178,12 @@ kramdown:
 collections:
   research:
     output: true
-    permalink: /:collection/:path/
-    name: "Research"
+    permalink: /:collection/:path
+    # name: "Research"
   talks:
     output: true
-    permalink: /:collection/:path/
-    name: "Talks"
+    permalink: /:collection/:path
+    # name: "Talks"
 
 # Defaults
 defaults:
