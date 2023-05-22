@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.6.29) (preloaded format=xelatex 2021.1.21)  21 APR 2023 13:29
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.6.29) (preloaded format=xelatex 2021.1.21)  22 MAY 2023 18:52
 entering extended mode
 **./CV.tex
 (CV.tex
@@ -420,8 +420,7 @@ Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \tymin=\dimen161
 \tymax=\dimen162
 \TY@tablewidth=\dimen163
-)
-No file CV.aux.
+) (CV.aux)
 \openout1 = `CV.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
@@ -435,6 +434,7 @@ LaTeX Font Info:    ... okay on input line 51.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 51.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 5
 1.
+
 (C:\Users\Velociraptor\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
@@ -570,12 +570,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 51.
 LaTeX Info: Redefining \pageref on input line 51.
 LaTeX Info: Redefining \nameref on input line 51.
+ (CV.out) (CV.out)
 \@outlinefile=\write3
 \openout3 = `CV.out'.
-
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
 
 
 (C:\Users\Velociraptor\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\se-a
@@ -587,29 +584,22 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 78.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 78.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 196.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 198.
  [1
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 196.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 198.
  (CV.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 196.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 196.
-
-
-Package rerunfilecheck Warning: File `CV.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `CV.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  ABFFA8204364E16172011153FB2371AF;344.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 198.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 198.
+Package rerunfilecheck Info: File `CV.out' has not changed.
+(rerunfilecheck)             Checksum: ABFFA8204364E16172011153FB2371AF;344.
  ) 
 Here is how much of TeX's memory you used:
- 15587 strings out of 414071
- 278371 string characters out of 2893163
- 590526 words of memory out of 3000000
- 33102 multiletter control sequences out of 15000+200000
+ 15594 strings out of 414071
+ 278409 string characters out of 2893163
+ 590641 words of memory out of 3000000
+ 33103 multiletter control sequences out of 15000+200000
  532882 words of font info for 48 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
  44i,8n,70p,1193b,310s stack positions out of 5000i,500n,10000p,200000b,50000s
