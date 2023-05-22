@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-The following are a selection of (all unpublished) mathematical essays I have written for various courses and projects. 
+This page collects my expository writings on various subjects. I don't have any original research papers yet. 
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
