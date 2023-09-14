@@ -13,6 +13,18 @@ In 2022, I am available for private WACE tutoring in mathematics (Methods and Sp
 
 ## Teaching experience
 
+### Current: 
+
+In Fall 2023, I am a Teaching Fellow for _MATH 1B: Integration, Series, and Differential Equations_ at Harvard. 
+
+<!-- ### At Harvard as a Teaching Fellow:
+
+* (Fall 2023) MATH 1B: Integration, Series, and Differential Equations -->
+
+### Directed Reading Program at Harvard:
+
+The Directed Reading Program matches graduate student mentors with motivated undergraduates who are interested in mathematics, guiding them to learn about a topic outside the scope of the regular curriculum. For some of these students, this may be their first time encountering formal proofs. I have participated in this program in Fall 2022 and Fall 2023.
+
 ### At the ANU as a demonstrator:
 
 * (S2 2021) [MATH2322](https://programsandcourses.anu.edu.au/2022/course/MATH2322), Advanced Algebra 1: Groups, Rings and Linear Algebra
