@@ -5,6 +5,10 @@ permalink: /fun-things/
 author_profile: true
 ---
 
+### Cryptic crosswords
+
+I enjoy both solving and designing cryptics. Here is a themed puzzle I constructed, [as a pdf](https://isabel-prime.github.io/files/cryptic-1.pdf/) (fillable puzzle format coming soon). It is completely solvable, although perhaps less entertaining, without understanding the theme. Lately I have been working through [Ma&#772ya&#772's](https://mayaofauckland.com/) cryptic collection.
+
 ### Modular origami
 
 Here is an icosahedron I assembled from [Sonobe units](https://en.wikipedia.org/wiki/Sonobe).
