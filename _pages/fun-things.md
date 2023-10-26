@@ -9,8 +9,6 @@ author_profile: true
 
 I enjoy both solving and designing cryptics. Here is a [themed puzzle](https://isabel-prime.github.io/files/cryptic-1.pdf) I constructed (fillable format coming soon). It is completely solvable, although perhaps less entertaining, without understanding the theme. Lately I have been working through [Ma&#772;ya&#772;'s](https://mayaofauckland.com/) cryptic collection.
 
-<p> a&#772; </p>
-
 ### Modular origami
 
 Here is an icosahedron I assembled from [Sonobe units](https://en.wikipedia.org/wiki/Sonobe).
