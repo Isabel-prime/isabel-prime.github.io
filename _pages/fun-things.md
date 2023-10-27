@@ -7,7 +7,7 @@ author_profile: true
 
 ### Cryptic crosswords
 
-I enjoy both solving and designing cryptics. Here is a [themed puzzle](https://isabel-prime.github.io/files/cryptic-1.pdf) I constructed (fillable format coming soon). It is completely solvable, although perhaps less entertaining, without understanding the theme. Lately I have been working through [Ma&#772;ya&#772;'s](https://mayaofauckland.com/) cryptic collection.
+I enjoy both solving and designing cryptics. Here is a [themed puzzle](/cryptic-1) I constructed. Lately I have been working through (and highly recommend!) [Ma&#772;ya&#772;'s](https://mayaofauckland.com/) cryptic collection.
 
 ### Modular origami
 

@@ -5,7 +5,7 @@ permalink: /research/thesis
 excerpt: "My Honours thesis, supervised by Asilata Bapat. We study the bounded derived category of representations for an acyclic quiver, occupied chiefly by derived reflection functors."
 date: 2021-10-28
 venue:
-paperurl: 'https://isabel-prime.github.io/files/thesis.pdf'
+paperurl: '/files/thesis.pdf'
 citation: 
 ---
 

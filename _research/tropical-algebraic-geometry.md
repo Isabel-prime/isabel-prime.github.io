@@ -5,7 +5,7 @@ permalink: /research/tropical-algebraic-geometry
 excerpt: 
 date: 2020-06-20
 venue:
-paperurl: 'https://isabel-prime.github.io/files/some-tropical-algebraic-geometry.pdf'
+paperurl: '/files/some-tropical-algebraic-geometry.pdf'
 citation: 
 ---
 

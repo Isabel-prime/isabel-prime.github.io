@@ -5,7 +5,7 @@ permalink: /research/rational-tangle-replacement
 excerpt: 
 date: 2021-06-04
 venue:
-paperurl: 'https://isabel-prime.github.io/files/rational-tangle-replacement.pdf'
+paperurl: '/files/rational-tangle-replacement.pdf'
 citation: 
 ---
 
