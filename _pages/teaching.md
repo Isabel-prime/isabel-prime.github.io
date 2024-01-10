@@ -11,13 +11,11 @@ author_profile: true
 
 In 2022, I am available for private WACE tutoring in mathematics (Methods and Specialist), physics, and chemistry. I am based in Perth, Western Australia with sessions held either online or in-person. I am also available to tutor motivated year 7-10 students in maths and science. Inquiries to [isabellongbottom@gmail.com](mailto:isabellongbottom@gmail.com); please include your year level, subject, desired location and availability.  -->
 
-## Teaching experience
-
 ### As a Teaching Fellow at Harvard: 
 
-Teaching Fellows are responsible for delivering thrice-weekly classes to a section of 20-30 undergraduate students, including lecturing and leading the students through in-class problem sets. There is an emphasis on active learning.
-
 * (Fall 2023) MATH 1B: Integration, Series, and Differential Equations
+
+Teaching Fellows are responsible for delivering thrice-weekly classes to a section of 20-30 undergraduate students, including lecturing and leading the students through in-class problem sets. There is an emphasis on active learning.
 
 ### Directed Reading Program at Harvard:
 
