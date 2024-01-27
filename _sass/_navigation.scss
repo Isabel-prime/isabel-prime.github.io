@@ -59,8 +59,8 @@
 .pagination {
   @include full();
   @include clearfix();
-  margin-top: 1em;
-  padding-top: 1em;
+  // margin-top: 1em; // removed to get rid of big gap
+  // padding-top: 1em; // removed to get rid of big gap
 
   ul {
     margin: 0;
@@ -131,8 +131,8 @@
     font-weight: bold;
     text-align: center;
     text-decoration: none;
-    color: mix(#fff, $gray, 50%);
-    border: 1px solid $light-gray;
+    color: $text-color; //mix(#fff, $gray, 50%);
+    border: 1px solid $border-color;
     border-radius: $border-radius;
 
     &:hover {
@@ -162,9 +162,10 @@
 .page__meta + .pagination,
 .page__share + .pagination,
 .page__comments + .pagination {
-  margin-top: 2em;
-  padding-top: 2em;
-  border-top: 1px solid $border-color;
+  // margin-top: 2em; // removed to get rid of big gap
+  // padding-top: 2em; // removed to get rid of big gap
+  padding-bottom: 2em; // added to fix overlap on mobile
+  // border-top: 1px solid $border-color;
 }
 
 
@@ -196,7 +197,7 @@
     padding: 0 0.5rem;
     border: 0;
     outline: none;
-    background-color: $primary-color;
+    background-color: $navicon-background-color;
     color: #fff;
     cursor: pointer;
   }
@@ -257,7 +258,7 @@
     padding: 5px;
     border: 1px solid $border-color;
     border-radius: $border-radius;
-    background: #fff;
+    background: $link-dropdown-color;
     box-shadow: 0 0 10px rgba(#000, 0.25);
 
     a {
@@ -299,7 +300,7 @@
 
     li {
       display: block;
-      border-bottom: 1px solid $border-color;
+      border-bottom: 1px solid $link-dropdown-border-color;
 
       &:last-child {
         border-bottom: none;
