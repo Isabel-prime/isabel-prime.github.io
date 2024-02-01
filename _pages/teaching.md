@@ -11,7 +11,7 @@ author_profile: true
 
 In 2022, I am available for private WACE tutoring in mathematics (Methods and Specialist), physics, and chemistry. I am based in Perth, Western Australia with sessions held either online or in-person. I am also available to tutor motivated year 7-10 students in maths and science. Inquiries to [isabellongbottom@gmail.com](mailto:isabellongbottom@gmail.com); please include your year level, subject, desired location and availability.  -->
 
-### As a Teaching Fellow at Harvard: 
+### As a Teaching Fellow at Harvard:
 
 * (Fall 2023) MATH 1B: Integration, Series, and Differential Equations
 

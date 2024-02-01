@@ -152,7 +152,6 @@
 
     &.disabled {
       color: mix(#000, $gray, 30%);
-      // color: #0f0;
       pointer-events: none;
       cursor: not-allowed;
     }

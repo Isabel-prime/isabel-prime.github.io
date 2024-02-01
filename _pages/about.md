@@ -12,7 +12,7 @@ redirect_from:
 &nbsp;  
 I am a second-year graduate student in mathematics at Harvard, supervised by [Michael Hopkins](https://people.math.harvard.edu/~mjh/). My research interests are in algebraic topology, specifically homotopy theory, and algebraic geometry. Currently I am thinking about algebraic K-theory. My contact address is _ilongbottom_ (at) _math_ (dot) _harvard_ (dot) _edu_.
 
-I obtained my undergraduate degree from the Australian National University, and wrote my [Honours thesis](/research/thesis) on the derived category of representations of an acyclic quiver, supervised by [Asilata Bapat](https://asilata.github.io/). 
+I obtained my undergraduate degree from the Australian National University, and wrote my [Honours thesis](/research/thesis) on the derived category of representations of an acyclic quiver, supervised by [Asilata Bapat](https://asilata.github.io/).
 
 In Spring 2024, I am organising the [zygotop](https://zygotop.github.io/) seminar at Harvard, an informal pedagogical seminar aimed at bridging the gap between the Kan seminar and [babytop](https://math.mit.edu/topology/babytop/).
 
