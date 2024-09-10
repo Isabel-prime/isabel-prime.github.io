@@ -13,7 +13,7 @@ In 2022, I am available for private WACE tutoring in mathematics (Methods and Sp
 
 ### As a Teaching Fellow at Harvard:
 
-* (Fall 2023) MATH 1B: Integration, Series, and Differential Equations
+* (Fall 2023, Fall 2024) MATH 1B: Integration, Series, and Differential Equations
 
 Teaching Fellows are responsible for delivering thrice-weekly classes to a section of 20-30 undergraduate students, including lecturing and leading the students through in-class problem sets. There is an emphasis on active learning.
 
