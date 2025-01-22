@@ -7,9 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- ## Private tutoring
-
-In 2022, I am available for private WACE tutoring in mathematics (Methods and Specialist), physics, and chemistry. I am based in Perth, Western Australia with sessions held either online or in-person. I am also available to tutor motivated year 7-10 students in maths and science. Inquiries to [isabellongbottom@gmail.com](mailto:isabellongbottom@gmail.com); please include your year level, subject, desired location and availability.  -->
+In 2024, I organised the [zygotop](https://zygotop.github.io/) seminar at Harvard, an informal pedagogical seminar aimed at bridging the gap between the Kan seminar and [babytop](https://math.mit.edu/topology/babytop/).
 
 ### As a Teaching Fellow at Harvard:
 
