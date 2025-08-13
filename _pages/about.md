@@ -10,7 +10,7 @@ redirect_from:
 <div><img src="/images/Black-Mountain-Sunset-Fullsize-Compressed.jpg" style="max-width: 800px; width: 100%; height: auto;" alt="A photo of Lake Burley-Griffin at sunset, with Telstra tower visible in silhouette" title="A photo of Lake Burley-Griffin at sunset, with Telstra tower (far right) and the National Library (far left) visible in silhouette"></div>
 
 &nbsp;  
-I am a third-year graduate student in mathematics at Harvard, supervised by [Michael Hopkins](https://people.math.harvard.edu/~mjh/). My research interests are in algebraic topology, specifically homotopy theory, and algebraic geometry. Currently I am thinking about algebraic K-theory. My contact address is _ilongbottom_ (at) _math_ (dot) _harvard_ (dot) _edu_.
+I am a fourth-year graduate student in mathematics at Harvard, supervised by [Michael Hopkins](https://people.math.harvard.edu/~mjh/). My research interests are in algebraic topology, specifically homotopy theory, and algebraic geometry. Currently I am thinking about localisations and algebraic K-theory. My contact address is _ilongbottom_ (at) _math_ (dot) _harvard_ (dot) _edu_.
 
 I obtained my undergraduate degree from the Australian National University, and wrote my [Honours thesis](/research/thesis) on the derived category of representations of an acyclic quiver, supervised by [Asilata Bapat](https://asilata.github.io/).
 
