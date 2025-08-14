@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+In Fall 2025, I am the Pedagogy Fellow for [Math 300: Teaching Undergraduate Mathematics](https://beta.my.harvard.edu/course/MATH300/2025-Fall/001). This course is required of all incoming mathematics graduate students, and helps to prepare them to teach math at Harvard, with an emphasis on active learning. The course focuses on the process of observation, practice, feedback, and reflection to provide insight into teaching and learning.
+
+### Seminars:
+
 In 2024, I organised the [zygotop](https://zygotop.github.io/) seminar at Harvard, an informal pedagogical seminar aimed at bridging the gap between the Kan seminar and [babytop](https://math.mit.edu/topology/babytop/).
 
 ### As a Teaching Fellow at Harvard:
