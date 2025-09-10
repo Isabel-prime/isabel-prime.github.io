@@ -1,7 +1,7 @@
 ---
 title: "Combinatorial Game Theory in Lean"
-collection: research
-permalink: /research/combinatorial-game-theory-in-lean
+collection: writing
+permalink: /writing/combinatorial-game-theory-in-lean
 excerpt:
 date: 2019-06-14
 venue:

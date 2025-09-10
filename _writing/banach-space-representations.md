@@ -1,7 +1,7 @@
 ---
 title: "Group Actions and Ergodic Theory"
-collection: research
-permalink: /research/banach-space-representations
+collection: writing
+permalink: /writing/banach-space-representations
 excerpt:
 date: 2020-11-15
 venue:

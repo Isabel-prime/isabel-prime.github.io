@@ -180,6 +180,10 @@ collections:
     output: true
     permalink: /:collection/:path
     # name: "Research"
+  writing:
+    output: true
+    permalink: /:collection/:path
+    # name: "Writing"
   talks:
     output: true
     permalink: /:collection/:path
@@ -223,6 +227,14 @@ defaults:
       author_profile: true
       share: false
       comments: true
+  - scope:
+      path: ""
+      type: writing
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: true
   # _portfolio
 #   - scope:
 #       path: ""
@@ -251,7 +263,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Australia/ACT # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: US/Eastern # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

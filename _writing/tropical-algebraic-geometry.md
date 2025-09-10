@@ -1,7 +1,7 @@
 ---
 title: "Tropical Algebraic Geometry and the Structure Theorem"
-collection: research
-permalink: /research/tropical-algebraic-geometry
+collection: writing
+permalink: /writing/tropical-algebraic-geometry
 excerpt: 
 date: 2020-06-20
 venue:
