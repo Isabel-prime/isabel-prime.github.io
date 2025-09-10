@@ -15,8 +15,8 @@ main:
 #   - title: "Blog Posts"
 #     url: /year-archive/
 
-  - title: "Fun things"
-    url: /fun-things/
+  - title: "Recreation"
+    url: /recreation/
     
   - title: "CV"
     url: /files/CV.pdf

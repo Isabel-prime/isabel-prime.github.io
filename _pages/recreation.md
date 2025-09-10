@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Fun things"
-permalink: /fun-things/
+title: "Recreation"
+permalink: /recreation/
 author_profile: true
 ---
 

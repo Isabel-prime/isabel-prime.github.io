@@ -7,7 +7,7 @@ author_profile: true
 
 This page collects my research papers and expository mathematical writings. You can also find my papers on the [arXiv](https://arxiv.org/a/longbottom_i_1.html).
 
-## Research
+### Research
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
@@ -19,7 +19,7 @@ This page collects my research papers and expository mathematical writings. You 
   {% include archive-single.html %}
 {% endfor %}
 
-## Other expository writings
+### Other expository writings
 
 {% for post in site.writing reversed %}
   {% include archive-single.html %}
