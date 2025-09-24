@@ -11,7 +11,7 @@ title                    : "Isabel Longbottom"
 title_separator          : "-"
 name                     : &name "Isabel Longbottom"
 description              : &description "personal description"
-url                      : https://isabel-prime.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://isabel-prime.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "isabel-prime/isabel-prime.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -91,20 +91,21 @@ author:
   email            : "ilongbottom@math.harvard.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
+  arxiv            : "https://arxiv.org/a/longbottom_i_1.html"
   bitbucket        :
   codepen          :
-  dribble         :
+  dribble          :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "isabel-prime"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0000-4764-9171"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
