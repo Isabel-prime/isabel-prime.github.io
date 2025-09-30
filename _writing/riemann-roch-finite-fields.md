@@ -5,7 +5,7 @@ permalink: /writing/riemann-roch-finite-fields
 excerpt: 
 date: 2021-06-11
 venue:
-paperurl: '/files/Riemann-Roch-on-finite-fields.pdf'
+paperpdf: '/files/Riemann-Roch-on-finite-fields.pdf'
 citation: 
 ---
 

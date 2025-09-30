@@ -46,19 +46,17 @@
           <p class="archive__item-excerpt"><i class="description" aria-hidden="true"></i> {{ post.date | date: '%B %Y' }}</p>
         {% endif %}
 
-    {% if post.excerpt and site.read_more != 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
-    {% elsif post.excerpt and site.read_more == 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
-    {% endif %}
-    
-      {% if post.citation and post.paperurl %}
-       <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
-      {% elsif post.citation %}
-        <p>Recommended citation: {{ post.citation }} </p>
-      {% elsif post.paperurl %}
-        <p><a href=" {{ post.paperurl }} "><u>Read article</u></a></p>
+    {% if post.excerpt %}
+    <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>'}} <strong>
+      {% if post.arxiv %}
+        <a href=" {{ post.arxiv }} " title="arXiv"><i class="ai ai-arxiv ai-fw"></i></a>
       {% endif %}
-
+      {% if post.paperpdf %}
+        <a href=" {{ post.paperpdf }} " title="pdf"><i class="fa-regular fa-file"></i></a>
+      {% endif %}
+    </strong></p>
+    </p>
+    {% endif %} 
+      
   </article>
 </div>

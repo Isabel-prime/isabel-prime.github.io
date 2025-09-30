@@ -5,7 +5,7 @@ permalink: /writing/banach-space-representations
 excerpt:
 date: 2020-11-15
 venue:
-paperurl: '/files/banach-space-representations.pdf'
+paperpdf: '/files/banach-space-representations.pdf'
 citation: 
 ---
 

@@ -7,7 +7,7 @@ author_profile: true
 
 ### Cryptic crosswords
 
-I enjoy both solving and designing cryptics. I have recently constructed two themed puzzles, which you can try [here](/cryptic-1) and [here](/cryptic-2). Lately I have been working through (and highly recommend!) [Ma&#772;ya&#772;'s](https://mayaofauckland.com/) cryptic collection.
+I enjoy solving cryptics. I have also designed a few: <a href="/cryptic-1" title="a cryptic"><i class="fas fa-music"></i></a> and <a href="/cryptic-2" title="another cryptic"><i class="fas fa-dice-two"></i></a>. Lately I have been working through (and highly recommend!) [Ma&#772;ya&#772;'s](https://mayaofauckland.com/) cryptic collection.
 
 ### Modular origami
 

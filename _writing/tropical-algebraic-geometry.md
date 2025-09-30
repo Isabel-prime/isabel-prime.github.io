@@ -5,7 +5,7 @@ permalink: /writing/tropical-algebraic-geometry
 excerpt: 
 date: 2020-06-20
 venue:
-paperurl: '/files/some-tropical-algebraic-geometry.pdf'
+paperpdf: '/files/some-tropical-algebraic-geometry.pdf'
 citation: 
 ---
 

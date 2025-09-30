@@ -5,7 +5,7 @@ permalink: /writing/rational-tangle-replacement
 excerpt: 
 date: 2021-06-04
 venue:
-paperurl: '/files/rational-tangle-replacement.pdf'
+paperpdf: '/files/rational-tangle-replacement.pdf'
 citation: 
 ---
 

@@ -5,7 +5,7 @@ permalink: /writing/combinatorial-game-theory-in-lean
 excerpt:
 date: 2019-06-14
 venue:
-paperurl: '/files/combinatorial-game-theory-in-lean.pdf'
+paperpdf: '/files/combinatorial-game-theory-in-lean.pdf'
 citation: 
 ---
 
