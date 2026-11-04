@@ -34,18 +34,24 @@ layout: default
           <p class="page__date"><strong>{{ "Modified:" }}</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%d %B %Y" }}</time></p>
         {% endif %}
         
+        {% if page.revised %}
+          {% assign revised_dates = page.revised | join: '|' | split: '|' %}
+          {% capture date_text %}{{ page.date | date: '%B %Y' }} (v1){% for d in revised_dates %}, {{ d | date: '%B %Y' }} (v{{ forloop.index | plus: 1 }}){% endfor %}{% endcapture %}
+        {% else %}
+          {% capture date_text %}{{ page.date | date: '%B %Y' }}{% endcapture %}
+        {% endif %}
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
           {% elsif page.date and page.venue %}
-          <p class="page__date"><i class="description" aria-hidden="true"></i> {{ page.date | date: '%B %Y' }}, {{page.venue}}</p>
+          <p class="page__date"><i class="description" aria-hidden="true"></i> {{ date_text }}, {{page.venue}}</p>
         {% elsif page.date %}
-          <p class="page__date"><i class="description" aria-hidden="true"></i> {{ page.date | date: '%B %Y' }}</p>
+          <p class="page__date"><i class="description" aria-hidden="true"></i> {{ date_text }}</p>
         {% endif %}
 
         {% if page.citation %}
-          <p class="page__date">Cite as: {{ page.citation | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+          <p class="page__date">In: {{ page.citation | markdownify | remove: '<p>' | remove: '</p>' }}</p>
         {% endif %}
-    
+        
         </header>
       {% endunless %}
 

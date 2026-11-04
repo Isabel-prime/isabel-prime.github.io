@@ -4,6 +4,7 @@ collection: research
 permalink: /research/finite-smashing-localisations-of-spectra
 excerpt:
 date: 2025-09-09
+revised: 2026-10-21
 venue:
 arxiv: 'https://arxiv.org/abs/2509.07344'
 paperpdf: 'https://arxiv.org/pdf/2509.07344'

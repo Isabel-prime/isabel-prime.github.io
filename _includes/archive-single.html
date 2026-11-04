@@ -38,16 +38,22 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
+        {% if post.revised %}
+          {% assign revised_dates = post.revised | join: '|' | split: '|' %}
+          {% capture date_text %}{{ post.date | date: '%B %Y' }} (v1){% for d in revised_dates %}, {{ d | date: '%B %Y' }} (v{{ forloop.index | plus: 1 }}){% endfor %}{% endcapture %}
+        {% else %}
+          {% capture date_text %}{{ post.date | date: '%B %Y' }}{% endcapture %}
+        {% endif %}
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%B %Y" }} </p>
         {% elsif post.date and post.venue %}
-          <p class="archive__item-excerpt"><i class="description" aria-hidden="true"></i> {{ post.date | date: '%B %Y' }}, {{post.venue}}</p>
+          <p class="archive__item-excerpt"><i class="description" aria-hidden="true"></i> {{ date_text }}, {{post.venue}}</p>
         {% elsif post.date %}
-          <p class="archive__item-excerpt"><i class="description" aria-hidden="true"></i> {{ post.date | date: '%B %Y' }}</p>
+          <p class="archive__item-excerpt"><i class="description" aria-hidden="true"></i> {{ date_text }}</p>
         {% endif %}
 
         {% if post.citation %}
-          <p class="archive__item-excerpt">{{ post.citation | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+          <p class="archive__item-excerpt">In: {{ post.citation | markdownify | remove: '<p>' | remove: '</p>' }}</p>
         {% endif %}
 
     {% if post.excerpt %}
