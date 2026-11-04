@@ -7,9 +7,9 @@ date: 2025-09-09
 venue:
 arxiv: 'https://arxiv.org/abs/2509.07344'
 paperpdf: 'https://arxiv.org/pdf/2509.07344'
-citation: 
+citation: 'Topology and its Applications 395 (2027) 110014, DOI: [10.1016/j.topol.2026.110014](https://doi.org/10.1016/j.topol.2026.110014)'
 ---
 
-We define a class of smashing localisations which we call _compactly central_, and classify compactly central localisations of $$Sp_{(p)}$$ and of $$Sp$$. Our main result is that $$L_n^f$$ is a compactly central localisation. 
+We define a class of smashing localisations which we call _compactly central_, and classify compactly central localisations of the category of spectra and of the category of $$p$$-local spectra. In both cases the compactly central localisations are those finite localisations which correspond to closed subsets of the Balmer spectrum with quasicompact complement. In particular, the finite chromatic localisation $$L_n^f$$ is compactly central. 
 
-A map $$\alpha: 1 \to A$$ in a presentably symmetric monoidal $$\infty$$-category $$\mathscr{C}$$ is _central_ if there exists a homotopy $$\alpha \otimes id_A \simeq id_A \otimes \alpha: A \to A \otimes A$$. A central map $$\alpha$$ can be used to produce a smashing localisation $$L_\alpha$$ of $$\mathscr{C}$$, because the free $$\mathbb{E}_1$$ algebra on the $$\mathbb{E}_0$$ algebra $$\alpha$$ is an idempotent commutative algebra. When the monoidal unit and $$A$$ are compact, we call $$L_\alpha$$ _compactly central_. We show that when $$\mathscr{C}$$ is (compactly generated) rigid, all compactly central localisations are finite in the sense of Miller. Not all finite localisations of $$Sp$$ are compactly central. To exhibit $$L_n^f$$ as compactly central, we determine properties of the $$K(n)$$-homology of a map between $$p$$-local finite spectra which ensure that some tensor power of the map is central. 
+We generalise our results to the category $$D(X)$$ for $$X$$ a quasicompact quasiseparated scheme with an ample family of line bundles. Analogously to spectra, we show that compactly central localisations of $$D(X)$$ correspond to closed subsets of $$X$$ with quasicompact complement. This includes any scheme which is quasiprojective over an affine base.
