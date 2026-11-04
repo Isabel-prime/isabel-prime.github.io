@@ -43,7 +43,7 @@ layout: default
         {% endif %}
 
         {% if page.citation %}
-          <p class="page__date">{{ page.citation | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+          <p class="page__date">{Cite as: { page.citation | markdownify | remove: '<p>' | remove: '</p>' }}</p>
         {% endif %}
     
         </header>
