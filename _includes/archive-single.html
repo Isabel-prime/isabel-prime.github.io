@@ -52,8 +52,8 @@
           <p class="archive__item-excerpt"><i class="description" aria-hidden="true"></i> {{ date_text }}</p>
         {% endif %}
 
-        {% if post.citation %}
-          <p class="archive__item-excerpt">In: {{ post.citation | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+        {% if post.citation or post.doi %}
+          <p class="archive__item-excerpt">{% if post.citation %}In: {{ post.citation | markdownify | remove: '<p>' | remove: '</p>' }}{% endif %}{% if post.citation and post.doi %}<br>{% endif %}{% if post.doi %}DOI: <a href="https://doi.org/{{ post.doi }}">{{ post.doi }}</a>{% endif %}</p>
         {% endif %}
 
     {% if post.excerpt %}
